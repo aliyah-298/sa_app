@@ -1,4 +1,5 @@
 nltk
 pandas
 streamlit
+matplotlib
 numpy
